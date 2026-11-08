@@ -1,1 +1,0 @@
-"use client";import dynamic from 'next/dynamic';const Live2D=dynamic(()=>import('@/components/widgets/Live2D'),{ssr:false});const Games=dynamic(()=>import('@/components/widgets/GamesPanel'),{ssr:false});export default function ClientWidgets(){return <><Live2D/><Games/></>;}
