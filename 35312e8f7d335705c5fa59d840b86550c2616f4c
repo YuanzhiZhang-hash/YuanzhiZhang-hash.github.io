@@ -1,0 +1,1 @@
+import snapshot from '@/public/data/snapshot.json';import {siteConfig} from '@/siteConfig';export async function loadSiteConfig(){return {...siteConfig,...snapshot.config,social:{...siteConfig.social,...snapshot.config.social}};}
