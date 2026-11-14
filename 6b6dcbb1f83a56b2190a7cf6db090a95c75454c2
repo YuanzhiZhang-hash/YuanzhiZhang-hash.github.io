@@ -1,0 +1,1 @@
+import HomeClient from './HomeClient';import data from '@/public/data/snapshot.json';export default function Home(){return <HomeClient postCount={data.posts.length} chatterCount={data.chatters.length} photoCount={Object.values(data.photos).reduce((sum,photos)=>sum+photos.length,0)}/>;}

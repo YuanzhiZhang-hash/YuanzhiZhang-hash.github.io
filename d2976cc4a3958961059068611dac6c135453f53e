@@ -1,0 +1,37 @@
+{
+  "title": "源智的小站",
+  "url": "https://yuanzhizhang-hash.github.io",
+  "authorName": "源智",
+  "bio": "记录生活，分享热爱。在这里，慢慢写下自己的故事。",
+  "avatarUrl": "/images/hong.jpg",
+  "useGradient": false,
+  "bgImages": [
+    "/uploads/3fcb422d10e04a0db00ffd4d41ffdd59.jpg",
+    "/uploads/2fcffe2d515d4c61bf2cdd332e34f7dc.jpg",
+    "/uploads/eb65cf21d71642a09802fee195b738f6.jpg",
+    "/uploads/829351e5d008439387972648e0ac615d.jpg",
+    "/uploads/8f40856ad9634d80bbb04ff0a69b822d.jpg"
+  ],
+  "defaultPostCover": "/uploads/92bb03866b4d46859be8311a913a19a7.jpg",
+  "cloudMusicPlaylistId": "18549008189",
+  "social": {
+    "github": "",
+    "gitee": "",
+    "email": "2431246292@qq.com",
+    "qq": "",
+    "wechat": "18835295019"
+  },
+  "buildDate": "2026-10-28T23:49:41.300268",
+  "icpConfig": {
+    "name": "",
+    "link": ""
+  },
+  "moeIcpConfig": {
+    "name": "",
+    "link": ""
+  },
+  "aboutContent": "## 你好，欢迎来到我的小站\n\n这里是我的个人空间，用来记录生活、学习与灵感。\n\n## 我会在这里分享\n\n- 日常随笔与生活照片\n- 学习记录与实践心得\n- 值得收藏的作品与网站\n\n很高兴在这里与你相遇。",
+  "aboutCover": "/uploads/b965710072624b53b9ac634633e19e08.jpg",
+  "dailyQuoteContent": "把今天过好，让每一份热爱慢慢生长。",
+  "dailyQuoteAuthor": ""
+}

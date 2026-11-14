@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function Contact(){return <div className="max-w-3xl mx-auto px-4 py-12"><section className="glass-card p-8"><h1 className="text-2xl font-bold mb-4">留言与联系</h1><p className="mb-4">欢迎交流！你可以通过首页的社交链接联系我。</p><p className="mb-6 text-sm text-slate-500">本站暂未开放在线留言。</p><Link href="/" className="text-sky-500">返回首页</Link></section></div>;}

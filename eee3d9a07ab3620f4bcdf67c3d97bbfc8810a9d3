@@ -1,0 +1,1 @@
+import data from '@/public/data/snapshot.json';import Article from './ArticleClient';export const dynamicParams=false;export function generateStaticParams(){return data.posts.map(p=>({slug:p.slug}));}export default function Page(){return <Article/>;}
