@@ -5,8 +5,6 @@ import SearchBar from "@/components/ui/SearchBar";
 import ProfileCard from "@/components/home/ProfileCard";
 import FadeIn from "@/components/ui/FadeIn";
 
-const CloudPlayer = dynamic(() => import("@/components/music/CloudPlayer"), { ssr: false });
-const LyricBar = dynamic(() => import("@/components/music/LyricBar"), { ssr: false });
 const LatestPostsCarousel = dynamic(() => import("@/components/home/LatestPostsCarousel"), { ssr: false });
 const LatestChatterCarousel = dynamic(() => import("@/components/home/LatestChatterCarousel"), { ssr: false });
 const PhotoWallPreview = dynamic(() => import("@/components/home/PhotoWallPreview"), { ssr: false });
@@ -32,26 +30,16 @@ export default function HomeClient({
       </FadeIn>
 
       <main className="flex flex-col gap-4 md:gap-6 w-full">
-        {/* 第一行：个人信息 + 播放器 */}
+        {/* 个人信息 */}
         <FadeIn delay={0.1}>
           <div className="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-6 w-full items-stretch">
-            <div className="md:col-span-8 flex w-full">
+            <div className="md:col-span-12 flex w-full">
               <ProfileCard
                 postCount={postCount}
                 chatterCount={chatterCount}
                 photoCount={photoCount}
               />
             </div>
-            <div className="md:col-span-4 flex w-full">
-              <CloudPlayer />
-            </div>
-          </div>
-        </FadeIn>
-
-        {/* 歌词栏 */}
-        <FadeIn delay={0.15}>
-          <div className="w-full">
-            <LyricBar />
           </div>
         </FadeIn>
 

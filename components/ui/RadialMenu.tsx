@@ -12,7 +12,6 @@ import {
   Users,
   Camera,
   Clock,
-  Music,
   User,
   Bookmark,
 } from "lucide-react";
@@ -27,7 +26,6 @@ const navItems = [
   { href: "/friends", label: "友链", icon: Users },
   { href: "/photowall", label: "照片墙", icon: Camera },
   { href: "/timeline", label: "归档", icon: Clock },
-  { href: "/music", label: "音乐", icon: Music },
   { href: "/about", label: "关于", icon: User },
 ];
 
