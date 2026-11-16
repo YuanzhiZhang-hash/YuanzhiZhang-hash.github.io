@@ -38,6 +38,25 @@
   },
   "posts": [
     {
+      "id": 4,
+      "title": "读《窄门》有感",
+      "slug": "读窄门有感",
+      "description": "你们要努力进窄门",
+      "content": "我在杰罗姆与阿莉莎那一封封信件里似乎看到了关于“爱情”的那扇“窄门”。\n\n芬格斯玛尔的花圃模糊了阿莉莎的思念，也模糊了我对爱情本色的认识。当我们深爱一个人的时候，我们究竟爱的是ta此时身上的品质，还是ta呢?杰罗姆与阿莉莎自幼相识，两人总是相互温柔的揣测对方所喜欢的品质与梦想，双方笨拙的努力修炼着对方可能喜欢的品德，试图拼命成为对方心中的完美，这确实让他们靠的越来越近，也让他们相互深爱着彼此。但究其根本，令他们真正相爱的到底是人本身还是其美好品质本身呢？或许在窄门的爱情故事中答案是前者。但阿莉莎去通过刻意改变她的品格而试图让杰罗姆忘记他的举动却也是实实在在有效的。在现实生活中，人随着时间发展是一定会变的，性格会变，习惯会变。因此关于爱情这件事，当我们因为一个人身上的某种特质而着迷时，我们自然想与其长厢厮守，但若在时间的变迁中，你的另一半身上的那个令你着迷的特质消失后，爱情又当何去何从呢？当然在热恋中的情侣也一定会发言说“令我着迷的是这个人，而非他身上的某种事物”但如果一个人真的毫无你所喜欢的特质，那我们又凭什么确定你所谓的那个ta就是值得你托付余生的那个人呢？\n\n同时阿莉莎为杰罗姆的“牺牲”同样令人震撼。不少浅尝辄止的读者可能认为这不过是拧巴女主的无病呻吟，但放到我们的现实当中，当两个人最开始有着同样远大的理想与目标时，两人逐渐相爱，但在相爱的过程中可能会发现，爱情的魅力已经使得其中一人随时会放弃他原本的伟大理想而专注于眼前的你时，你是会感到欣喜还是心痛呢？无疑。阿莉莎便是那个对此感到及其心痛的人。伟大的爱情永远是为对方着想，这可能也是阿莉莎在经历一系列挣扎之后还是选择去回避杰罗姆的原因吧。\n\n“靠近你就靠近了痛苦，远离你就远离了幸福。”可能阿莉莎的所谓拧巴正是来源于“我爱你所以我的眼里只能装下你，我不敢爱你是因为我怕你的眼里全是我而失去了你自己。”\n\n“你们要努力进窄门”窄门或许指的就是最初的远大目标与本身的自我。在自我与爱情之间，我似乎体会到了与阿莉莎与杰罗姆同样的痛苦，我似乎痛于懦弱的爱情，痛于含蓄的爱情，痛于清醒的爱情，痛于通往幸福的路那么窄，窄到无法容纳两人并肩而行......但我又何尝不渴望。\n\n若您问我这本书到底如何，我大抵是不认同“基督色彩”“无病呻吟”“矫揉造作”这一系列标签，因为我们似乎真的能够从中实实在在窥探到关于爱情的那扇“窄门”......\n",
+      "cover": "",
+      "category": "读万卷书而有感",
+      "tags": [],
+      "status": "published",
+      "is_pinned": false,
+      "views": 1,
+      "likes": 0,
+      "word_count": 1001,
+      "reading_time": 3,
+      "published_at": "2026-11-12T00:17:38.335571",
+      "created_at": "2026-11-12T00:17:38.334575",
+      "updated_at": "2026-11-12T00:17:38.335571"
+    },
+    {
       "id": 3,
       "title": "《毛泽东选集》心法SOP",
       "slug": "毛泽东选集心法sop",
@@ -69,7 +88,7 @@
       "tags": [],
       "status": "published",
       "is_pinned": false,
-      "views": 12,
+      "views": 14,
       "likes": 0,
       "word_count": 110,
       "reading_time": 1,
@@ -101,24 +120,24 @@
   ],
   "categories": [
     {
-      "name": "生活随笔",
-      "slug": "life",
-      "sort": 0,
-      "created_at": "2026-10-28T23:49:41.303268",
       "id": 1,
       "description": "",
       "post_count": 1,
-      "updated_at": "2026-10-28T23:49:41.303268"
+      "updated_at": "2026-10-28T23:49:41.303268",
+      "name": "生活随笔",
+      "slug": "life",
+      "sort": 0,
+      "created_at": "2026-10-28T23:49:41.303268"
     },
     {
+      "id": 2,
+      "description": "记录读书时的所想所悟",
+      "post_count": 2,
+      "updated_at": "2026-10-30T17:26:20.507809",
       "name": "读万卷书而有感",
       "slug": " Read thousands of books",
       "sort": 0,
-      "created_at": "2026-10-30T17:26:20.507809",
-      "id": 2,
-      "description": "记录读书时的所想所悟",
-      "post_count": 1,
-      "updated_at": "2026-10-30T17:26:20.507809"
+      "created_at": "2026-10-30T17:26:20.507809"
     }
   ],
   "chatters": [
@@ -136,62 +155,62 @@
   ],
   "albums": [
     {
-      "title": "生活相册",
-      "description": "暂用项目自带图片，可在后台删除并上传自己的照片。",
-      "photo_count": 5,
-      "created_at": "2026-10-28T23:49:41.314992",
       "cover": "/images/36.webp",
       "id": 1,
       "sort": 0,
-      "updated_at": "2026-10-30T17:04:01.279700"
+      "updated_at": "2026-10-30T17:04:01.279700",
+      "description": "暂用项目自带图片，可在后台删除并上传自己的照片。",
+      "photo_count": 5,
+      "title": "生活相册",
+      "created_at": "2026-10-28T23:49:41.314992"
     }
   ],
   "photos": {
     "1": [
       {
+        "id": 2,
+        "caption": "anirban-banerjee-dh4cUbWGLvU-unsplash",
+        "sort": 0,
+        "orientation": "landscape",
         "album_id": 1,
         "url": "/uploads/29896a0b3b45455591270fc17c624516.jpg",
-        "orientation": "landscape",
-        "created_at": "2026-10-30T17:03:59.114662",
-        "caption": "anirban-banerjee-dh4cUbWGLvU-unsplash",
-        "id": 2,
-        "sort": 0
+        "created_at": "2026-10-30T17:03:59.114662"
       },
       {
+        "id": 3,
+        "caption": "yasin-onus-eRrp5uh5otU-unsplash",
+        "sort": 0,
+        "orientation": "portrait",
         "album_id": 1,
         "url": "/uploads/6ad37a0b0ff14b0cb918b6056f2022cf.jpg",
-        "orientation": "portrait",
-        "created_at": "2026-10-30T17:03:59.112662",
-        "caption": "yasin-onus-eRrp5uh5otU-unsplash",
-        "id": 3,
-        "sort": 0
+        "created_at": "2026-10-30T17:03:59.112662"
       },
       {
+        "id": 4,
+        "caption": "paolo-santoriello-jJftn0CHtEU-unsplash",
+        "sort": 0,
+        "orientation": "landscape",
         "album_id": 1,
         "url": "/uploads/3f6e480f2b924411b359efecf154dbbf.jpg",
-        "orientation": "landscape",
-        "created_at": "2026-10-30T17:03:59.147882",
-        "caption": "paolo-santoriello-jJftn0CHtEU-unsplash",
-        "id": 4,
-        "sort": 0
+        "created_at": "2026-10-30T17:03:59.147882"
       },
       {
+        "id": 5,
+        "caption": "jeffrey-zhang-O7JMJz7SHA0-unsplash",
+        "sort": 0,
+        "orientation": "landscape",
         "album_id": 1,
         "url": "/uploads/3fd9844d16c84622b8129619986e593a.jpg",
-        "orientation": "landscape",
-        "created_at": "2026-10-30T17:03:59.200881",
-        "caption": "jeffrey-zhang-O7JMJz7SHA0-unsplash",
-        "id": 5,
-        "sort": 0
+        "created_at": "2026-10-30T17:03:59.200881"
       },
       {
+        "id": 6,
+        "caption": "diogo-ferrer-imEo1vih-e0-unsplash",
+        "sort": 0,
+        "orientation": "landscape",
         "album_id": 1,
         "url": "/uploads/8106fa5e377343b9aad1244bab4bd516.jpg",
-        "orientation": "landscape",
-        "created_at": "2026-10-30T17:03:59.300682",
-        "caption": "diogo-ferrer-imEo1vih-e0-unsplash",
-        "id": 6,
-        "sort": 0
+        "created_at": "2026-10-30T17:03:59.300682"
       }
     ]
   },
