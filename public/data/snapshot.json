@@ -120,24 +120,24 @@
   ],
   "categories": [
     {
-      "id": 1,
-      "description": "",
-      "post_count": 1,
-      "updated_at": "2026-10-28T23:49:41.303268",
       "sort": 0,
       "name": "生活随笔",
       "slug": "life",
-      "created_at": "2026-10-28T23:49:41.303268"
+      "created_at": "2026-10-28T23:49:41.303268",
+      "id": 1,
+      "description": "",
+      "post_count": 1,
+      "updated_at": "2026-10-28T23:49:41.303268"
     },
     {
-      "id": 2,
-      "description": "记录读书时的所想所悟",
-      "post_count": 2,
-      "updated_at": "2026-10-30T17:26:20.507809",
       "sort": 0,
       "name": "读万卷书而有感",
       "slug": " Read thousands of books",
-      "created_at": "2026-10-30T17:26:20.507809"
+      "created_at": "2026-10-30T17:26:20.507809",
+      "id": 2,
+      "description": "记录读书时的所想所悟",
+      "post_count": 2,
+      "updated_at": "2026-10-30T17:26:20.507809"
     }
   ],
   "chatters": [
@@ -155,62 +155,62 @@
   ],
   "albums": [
     {
-      "cover": "/images/36.webp",
-      "id": 1,
-      "sort": 0,
-      "updated_at": "2026-10-30T17:04:01.279700",
       "description": "暂用项目自带图片，可在后台删除并上传自己的照片。",
       "photo_count": 5,
       "title": "生活相册",
-      "created_at": "2026-10-28T23:49:41.314992"
+      "created_at": "2026-10-28T23:49:41.314992",
+      "cover": "/images/36.webp",
+      "id": 1,
+      "sort": 0,
+      "updated_at": "2026-10-30T17:04:01.279700"
     }
   ],
   "photos": {
     "1": [
       {
+        "album_id": 1,
+        "orientation": "landscape",
+        "url": "/uploads/29896a0b3b45455591270fc17c624516.jpg",
+        "created_at": "2026-10-30T17:03:59.114662",
         "id": 2,
         "caption": "anirban-banerjee-dh4cUbWGLvU-unsplash",
-        "sort": 0,
-        "orientation": "landscape",
-        "album_id": 1,
-        "url": "/uploads/29896a0b3b45455591270fc17c624516.jpg",
-        "created_at": "2026-10-30T17:03:59.114662"
+        "sort": 0
       },
       {
+        "album_id": 1,
+        "orientation": "portrait",
+        "url": "/uploads/6ad37a0b0ff14b0cb918b6056f2022cf.jpg",
+        "created_at": "2026-10-30T17:03:59.112662",
         "id": 3,
         "caption": "yasin-onus-eRrp5uh5otU-unsplash",
-        "sort": 0,
-        "orientation": "portrait",
-        "album_id": 1,
-        "url": "/uploads/6ad37a0b0ff14b0cb918b6056f2022cf.jpg",
-        "created_at": "2026-10-30T17:03:59.112662"
+        "sort": 0
       },
       {
+        "album_id": 1,
+        "orientation": "landscape",
+        "url": "/uploads/3f6e480f2b924411b359efecf154dbbf.jpg",
+        "created_at": "2026-10-30T17:03:59.147882",
         "id": 4,
         "caption": "paolo-santoriello-jJftn0CHtEU-unsplash",
-        "sort": 0,
-        "orientation": "landscape",
-        "album_id": 1,
-        "url": "/uploads/3f6e480f2b924411b359efecf154dbbf.jpg",
-        "created_at": "2026-10-30T17:03:59.147882"
+        "sort": 0
       },
       {
+        "album_id": 1,
+        "orientation": "landscape",
+        "url": "/uploads/3fd9844d16c84622b8129619986e593a.jpg",
+        "created_at": "2026-10-30T17:03:59.200881",
         "id": 5,
         "caption": "jeffrey-zhang-O7JMJz7SHA0-unsplash",
-        "sort": 0,
-        "orientation": "landscape",
-        "album_id": 1,
-        "url": "/uploads/3fd9844d16c84622b8129619986e593a.jpg",
-        "created_at": "2026-10-30T17:03:59.200881"
+        "sort": 0
       },
       {
+        "album_id": 1,
+        "orientation": "landscape",
+        "url": "/uploads/8106fa5e377343b9aad1244bab4bd516.jpg",
+        "created_at": "2026-10-30T17:03:59.300682",
         "id": 6,
         "caption": "diogo-ferrer-imEo1vih-e0-unsplash",
-        "sort": 0,
-        "orientation": "landscape",
-        "album_id": 1,
-        "url": "/uploads/8106fa5e377343b9aad1244bab4bd516.jpg",
-        "created_at": "2026-10-30T17:03:59.300682"
+        "sort": 0
       }
     ]
   },

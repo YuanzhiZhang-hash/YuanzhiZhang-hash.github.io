@@ -13,7 +13,7 @@ export default function ProfileCard({
   const siteConfig = useSiteConfig();
   return (
     <div
-      className="rounded-3xl bg-white/40 dark:bg-slate-800/50 backdrop-blur-md border border-white/40 dark:border-white/10 shadow-xl p-5 md:p-8 flex flex-col justify-between transition-all duration-700 group relative overflow-hidden w-full h-full min-h-[200px] md:min-h-[280px]"
+      className="home-profile-card rounded-3xl bg-white/40 dark:bg-slate-800/50 backdrop-blur-md border border-white/40 dark:border-white/10 shadow-xl p-5 md:p-6 flex flex-col justify-between transition-all duration-700 group relative overflow-hidden w-full h-full min-h-[200px] md:min-h-[340px]"
     >
       <div className="flex items-start justify-between relative z-10">
         <div className="flex items-center gap-4 md:gap-6">
