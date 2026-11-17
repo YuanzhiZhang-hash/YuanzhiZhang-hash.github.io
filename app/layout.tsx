@@ -4,7 +4,6 @@ import "highlight.js/styles/vs2015.css";
 import { ThemeProvider } from "@/components/providers/ThemeProvider";
 import { ToastProvider } from "@/components/providers/ToastProvider";
 import { BackgroundProvider } from "@/components/providers/BackgroundProvider";
-import { MusicProvider } from "@/components/providers/MusicProvider";
 import { EffectProvider } from "@/components/providers/EffectProvider";
 import BackgroundRenderer from "@/components/layout/BackgroundRenderer";
 import Navbar from "@/components/layout/Navbar";
@@ -50,8 +49,7 @@ export default async function RootLayout({
           <EffectProvider>
             <WelcomeScreen />
             <BackgroundProvider>
-              <MusicProvider>
-                <ToastProvider>
+              <ToastProvider>
                   <BackgroundRenderer />
                   <VisitorTracker />
                   <ClickEffect />
@@ -64,8 +62,7 @@ export default async function RootLayout({
                     {children}
                   </main>
                   <ClientWidgets />
-                </ToastProvider>
-              </MusicProvider>
+              </ToastProvider>
             </BackgroundProvider>
           </EffectProvider>
         </ThemeProvider>
